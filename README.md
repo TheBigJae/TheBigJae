@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheBigJae
-- 👀 I’m interested in networking with peoeple and making friends while working on real time projects 
+- 👀 I’m interested in networking with people and making friends while working on real time projects 
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on open source projects...
 - 📫 Reach me on twitter @ThebigJae_
