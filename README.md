@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TheBigJae     
+- 👋 Hi, I’m @John    
 - 👀 I’m interested in networking with people and making friends while working on real time projects 
 - 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on open source projects...
+- 💞️ I’m looking Just There
 - 📫 Reach me on twitter @ThebigJae_
 
 <!---
