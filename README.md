@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @John    
 - 👀 I’m interested in networking with people and making friends while working on real time projects 
-- 🌱 I’m currently studying CS
+- 🌱 I’m a Computer Science Graduate
 - 💞️ I’m a Mobile App Developer
 - 📫 Reach me on twitter @ThebigJae_
 
